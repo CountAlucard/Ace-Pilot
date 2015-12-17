@@ -1,0 +1,1068 @@
+# depslib dependency file v1.0
+1423438470 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\01_hello_sdl\01_hello_sdl.cpp
+	<SDL.h>
+	<stdio.h>
+
+1450130111 
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156342 e.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1394937197 orm.h"
+
+1445019046 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\close_code.h
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394937196 ode.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394937197 c.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1450132001 .h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1423438470 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\01_hello_sdl.cpp
+	<SDL.h>
+	<stdio.h>
+
+1423438470 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\06_extension_libraries_and_loading_other_image_formats.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1376156342 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2_image-2.0.0\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1423438470 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl\labprogra3\06_extension_libraries_and_loading_other_image_formats.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1446185367 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl\labprogra3\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Jugador.h"
+
+1450132704 "
+
+1446181720 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl\labprogra3\include\player.h
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+
+1446181962 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl\labprogra3\src\player.cpp
+	"Player.h"
+
+1446184890 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl\labprogra3\src\jugador.cpp
+	"Jugador.h"
+
+1446184145 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl\labprogra3\include\jugador.h
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+
+1448032044 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\entidad.cpp
+	"Entidad.h"
+
+1448596181 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\entidad.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<list>
+
+1448838657 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\jugador.cpp
+	"Jugador.h"
+
+1448831736 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\jugador.h
+	<list>
+	"Personaje.h"
+
+1448596174 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\personaje.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<map>
+	"Entidad.h"
+
+1448838507 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<list>
+	"Jugador.h"
+
+1448832561 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\personaje.cpp
+	"Personaje.h"
+
+1448032044 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\src\entidad.cpp
+	"Entidad.h"
+
+1449968997 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\include\entidad.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<list>
+
+1449970238 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\src\jugador.cpp
+	"Jugador.h"
+
+1449968997 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\include\jugador.h
+	<list>
+	"Personaje.h"
+	"Proyectil.h"
+
+1449953343 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\include\personaje.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<map>
+	"Entidad.h"
+
+1449973887 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\src\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<list>
+	"Jugador.h"
+	"Enemigo.h"
+	"Proyectil.h"
+	"Vida.h"
+	"Meteorito2.h"
+
+1450137170 2.h"
+
+1448032044 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\src\personaje.cpp
+	"Personaje.h"
+
+1449954718 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\src\meteorito1.cpp
+	"Meteorito1.h"
+
+1449954718 1.h"
+
+1448845940 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\include\meteorito1.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1448032044 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\include\proyectil.h
+	<list>
+	"Entidad.h"
+	"Enemigo.h"
+
+1448032044 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\include\enemigo.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1449953366 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\include\vida.h
+	<SDL.h>
+	<SDL_image.h>
+	"Entidad.h"
+	"Jugador.h"
+
+1449972669 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\src\enemigo.cpp
+	"Enemigo.h"
+
+1449967431 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\src\proyectil.cpp
+	"Proyectil.h"
+
+1449968916 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\src\vida.cpp
+	"Vida.h"
+
+1449973887 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\src\meteorito2.cpp
+	"Meteorito2.h"
+
+1449972412 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3\labprogra3\include\meteorito2.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1449981161 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v2\labprogra3\src\enemigo.cpp
+	"Enemigo.h"
+
+1448032044 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v2\labprogra3\include\enemigo.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1449953343 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v2\labprogra3\include\personaje.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<map>
+	"Entidad.h"
+
+1449968997 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v2\labprogra3\include\entidad.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<list>
+
+1449968997 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v2\labprogra3\include\jugador.h
+	<list>
+	"Personaje.h"
+	"Proyectil.h"
+
+1449980704 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v2\labprogra3\include\proyectil.h
+	<list>
+	"Entidad.h"
+	"Enemigo.h"
+	"Meteorito2.h"
+
+1448032044 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v2\labprogra3\src\entidad.cpp
+	"Entidad.h"
+
+1449976548 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v2\labprogra3\src\jugador.cpp
+	"Jugador.h"
+
+1449981289 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v2\labprogra3\src\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<list>
+	"Jugador.h"
+	"Enemigo.h"
+	"Proyectil.h"
+	"Vida.h"
+	"Meteorito2.h"
+
+1449953366 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v2\labprogra3\include\vida.h
+	<SDL.h>
+	<SDL_image.h>
+	"Entidad.h"
+	"Jugador.h"
+
+1449972412 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v2\labprogra3\include\meteorito2.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1449981161 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v2\labprogra3\src\meteorito2.cpp
+	"Meteorito2.h"
+
+1448032044 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v2\labprogra3\src\personaje.cpp
+	"Personaje.h"
+
+1449980704 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v2\labprogra3\src\proyectil.cpp
+	"Proyectil.h"
+
+1449968916 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v2\labprogra3\src\vida.cpp
+	"Vida.h"
+
+1450137170 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\src\enemigo.cpp
+	"Enemigo.h"
+
+1448032044 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\include\enemigo.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1449953343 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\include\personaje.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<map>
+	"Entidad.h"
+
+1449968997 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\include\entidad.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<list>
+
+1449968997 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\include\jugador.h
+	<list>
+	"Personaje.h"
+	"Proyectil.h"
+
+1450131672 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\include\proyectil.h
+	<list>
+	"Entidad.h"
+	"Enemigo.h"
+	"Meteorito2.h"
+	"Meteorito3.h"
+
+1450137170 3.h"
+
+1449972412 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\include\meteorito2.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1448032044 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\src\entidad.cpp
+	"Entidad.h"
+
+1450132575 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\src\jugador.cpp
+	"Jugador.h"
+
+1450138557 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\src\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<list>
+	"Jugador.h"
+	"Enemigo.h"
+	"Proyectil.h"
+	"Vida.h"
+	"Meteorito2.h"
+	"Meteorito3.h"
+	"Windows.h"
+
+1450132704 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\include\vida.h
+	<SDL.h>
+	<SDL_image.h>
+	"Entidad.h"
+	"Jugador.h"
+
+1450137170 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\src\meteorito2.cpp
+	"Meteorito2.h"
+
+1448032044 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\src\personaje.cpp
+	"Personaje.h"
+
+1450132001 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\src\proyectil.cpp
+	"Proyectil.h"
+
+1450137662 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\src\vida.cpp
+	"Vida.h"
+
+1450137170 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\src\meteorito3.cpp
+	"Meteorito3.h"
+
+1450130111 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v3\labprogra3\include\meteorito3.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1450137170 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\src\enemigo.cpp
+	"Enemigo.h"
+
+1448032044 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\include\enemigo.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1449953343 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\include\personaje.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<map>
+	"Entidad.h"
+
+1449968997 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\include\entidad.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<list>
+
+1450213082 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\include\jugador.h
+	<list>
+	"Personaje.h"
+	"Proyectil.h"
+
+1450131672 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\include\proyectil.h
+	<list>
+	"Entidad.h"
+	"Enemigo.h"
+	"Meteorito2.h"
+	"Meteorito3.h"
+
+1449972412 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\include\meteorito2.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1450130111 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\include\meteorito3.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1448032044 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\src\entidad.cpp
+	"Entidad.h"
+
+1450213413 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\src\jugador.cpp
+	"Jugador.h"
+
+1450212774 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\src\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<list>
+	"Jugador.h"
+	"Enemigo.h"
+	"Proyectil.h"
+	"Vida.h"
+	"Meteorito2.h"
+	"Meteorito3.h"
+	"Windows.h"
+
+1450132704 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\include\vida.h
+	<SDL.h>
+	<SDL_image.h>
+	"Entidad.h"
+	"Jugador.h"
+
+1450137170 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\src\meteorito2.cpp
+	"Meteorito2.h"
+
+1450137170 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\src\meteorito3.cpp
+	"Meteorito3.h"
+
+1448032044 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\src\personaje.cpp
+	"Personaje.h"
+
+1450132001 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\src\proyectil.cpp
+	"Proyectil.h"
+
+1450137662 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v4\labprogra3\src\vida.cpp
+	"Vida.h"
+
+1450208624 source:/home/carlos/Documents/labprogra3/src/Enemigo.cpp
+	"Enemigo.h"
+
+1450208612 /home/carlos/Documents/labprogra3/include/Enemigo.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1450216235 /home/carlos/Documents/labprogra3/include/Personaje.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<vector>
+	<map>
+	"Entidad.h"
+
+1450216220 /home/carlos/Documents/labprogra3/include/Entidad.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<list>
+
+1450208614 /home/carlos/Documents/labprogra3/include/Jugador.h
+	<list>
+	"Personaje.h"
+	"Proyectil.h"
+
+1450208622 /home/carlos/Documents/labprogra3/include/Proyectil.h
+	<list>
+	"Entidad.h"
+	"Enemigo.h"
+	"Meteorito2.h"
+	"Meteorito3.h"
+
+1450208616 /home/carlos/Documents/labprogra3/include/Meteorito2.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1450208618 /home/carlos/Documents/labprogra3/include/Meteorito3.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1450208624 source:/home/carlos/Documents/labprogra3/src/Entidad.cpp
+	"Entidad.h"
+
+1450217504 source:/home/carlos/Documents/labprogra3/src/Jugador.cpp
+	"Jugador.h"
+
+1450225639 source:/home/carlos/Documents/labprogra3/src/main.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<list>
+	"Jugador.h"
+	"Enemigo.h"
+	"Proyectil.h"
+	"Vida.h"
+	"Meteorito2.h"
+	"Meteorito3.h"
+	"Meteorito4.h"
+	<SDL2/SDL_mixer.h>
+
+1450216248 /home/carlos/Documents/labprogra3/include/Vida.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"Entidad.h"
+	"Jugador.h"
+
+1450208628 source:/home/carlos/Documents/labprogra3/src/Meteorito2.cpp
+	"Meteorito2.h"
+
+1450208628 source:/home/carlos/Documents/labprogra3/src/Meteorito3.cpp
+	"Meteorito3.h"
+
+1450208630 source:/home/carlos/Documents/labprogra3/src/Personaje.cpp
+	"Personaje.h"
+
+1450208630 source:/home/carlos/Documents/labprogra3/src/Proyectil.cpp
+	"Proyectil.h"
+
+1450208632 source:/home/carlos/Documents/labprogra3/src/Vida.cpp
+	"Vida.h"
+
+1450217051 /home/carlos/Documents/labprogra3/include/Meteorito4.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1450217941 source:/home/carlos/Documents/labprogra3/src/Meteorito4.cpp
+	"Meteorito4.h"
+
+1450228114 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\src\enemigo.cpp
+	"Enemigo.h"
+
+1450228144 c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\include\enemigo.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1450235829 c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\include\personaje.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<map>
+	"Entidad.h"
+
+1450235836 c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\include\entidad.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<list>
+
+1450228142 c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\include\jugador.h
+	<list>
+	"Personaje.h"
+	"Proyectil.h"
+
+1450228148 c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\include\proyectil.h
+	<list>
+	"Entidad.h"
+	"Enemigo.h"
+	"Meteorito2.h"
+	"Meteorito3.h"
+
+1450228138 c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\include\meteorito2.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1450228142 c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\include\meteorito3.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1450228110 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\src\entidad.cpp
+	"Entidad.h"
+
+1450241465 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\src\jugador.cpp
+	"Jugador.h"
+
+1450238801 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\src\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<iostream>
+	<list>
+	<stdio.h>
+	"Jugador.h"
+	"Enemigo.h"
+	"Proyectil.h"
+	"Vida.h"
+	"Meteorito2.h"
+	"Meteorito3.h"
+	"Meteorito4.h"
+	"Windows.h"
+
+1450235853 c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\include\vida.h
+	<SDL.h>
+	<SDL_image.h>
+	"Entidad.h"
+	"Jugador.h"
+
+1450228152 c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\include\meteorito4.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1450228110 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\src\meteorito2.cpp
+	"Meteorito2.h"
+
+1450228104 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\src\meteorito3.cpp
+	"Meteorito3.h"
+
+1450228114 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\src\meteorito4.cpp
+	"Meteorito4.h"
+
+1450228104 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\src\personaje.cpp
+	"Personaje.h"
+
+1450238004 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\src\proyectil.cpp
+	"Proyectil.h"
+
+1450228102 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\labprogra3\src\vida.cpp
+	"Vida.h"
+
+1376152840 c:\users\alejandro\documents\unitec\10 trimestre\progra3\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1450228114 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\src\enemigo.cpp
+	"Enemigo.h"
+
+1450228144 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\include\enemigo.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1450235829 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\include\personaje.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<map>
+	"Entidad.h"
+
+1450321282 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\include\entidad.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<list>
+
+1450321282 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\include\jugador.h
+	<list>
+	"Personaje.h"
+	"Proyectil.h"
+
+1450228148 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\include\proyectil.h
+	<list>
+	"Entidad.h"
+	"Enemigo.h"
+	"Meteorito2.h"
+	"Meteorito3.h"
+
+1450228138 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\include\meteorito2.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1450228142 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\include\meteorito3.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1450228110 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\src\entidad.cpp
+	"Entidad.h"
+
+1450370400 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\src\jugador.cpp
+	"Jugador.h"
+
+1450373311 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\src\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<iostream>
+	<list>
+	<stdio.h>
+	<fstream>
+	"Jugador.h"
+	"Enemigo.h"
+	"Proyectil.h"
+	"Vida.h"
+	"Meteorito2.h"
+	"Meteorito3.h"
+	"Meteorito4.h"
+	"Meteorito5.h"
+	"Windows.h"
+
+1450235853 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\include\vida.h
+	<SDL.h>
+	<SDL_image.h>
+	"Entidad.h"
+	"Jugador.h"
+
+1450228152 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\include\meteorito4.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
+1450228110 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\src\meteorito2.cpp
+	"Meteorito2.h"
+
+1450228104 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\src\meteorito3.cpp
+	"Meteorito3.h"
+
+1450228114 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\src\meteorito4.cpp
+	"Meteorito4.h"
+
+1450228104 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\src\personaje.cpp
+	"Personaje.h"
+
+1450373451 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\src\proyectil.cpp
+	"Proyectil.h"
+	<fstream>
+
+1450228102 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\src\vida.cpp
+	"Vida.h"
+
+1450319032 source:c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\src\meteorito5.cpp
+	"Meteorito5.h"
+
+1450317492 c:\users\alejandro\documents\unitec\10 trimestre\progra3\proyecto-progra3-v5\labprogra3\include\meteorito5.h
+	"Personaje.h"
+	"Jugador.h"
+	<stdlib.h>
+	<list>
+
